@@ -86,7 +86,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       </xsl:when>
       <xsl:otherwise>
           <td>
-						<xsl:value-of select="title"/> 
+		<xsl:element name="a">
+		<xsl:attribute name="href">#<xsl:value-of select="title"/> 
+		</xsl:attribute>
+					<xsl:value-of select="title"/> 
+		</xsl:element>
           </td>
       </xsl:otherwise>
 		</xsl:choose>
