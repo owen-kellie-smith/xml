@@ -73,7 +73,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 		<xsl:choose>
       <xsl:when test="category = 'Plenary'">
           <td class="plenary">
-						<xsl:value-of select="title"/> 
+	<xsl:element name="a">
+		<xsl:attribute name="name">top-<xsl:value-of select="title"/> 
+		</xsl:attribute>
+		</xsl:element>
+		<xsl:element name="a">
+		<xsl:attribute name="href">#<xsl:value-of select="title"/> 
+		</xsl:attribute>
+					<xsl:value-of select="title"/> 
+		</xsl:element>
         	<xsl:if test="count(speaker) > 0">
   		(<xsl:for-each select="speaker" >
 			<xsl:value-of select="name"/>
@@ -86,6 +94,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       </xsl:when>
       <xsl:otherwise>
           <td>
+	<xsl:element name="a">
+		<xsl:attribute name="name">top-<xsl:value-of select="title"/> 
+		</xsl:attribute>
+		</xsl:element>
 		<xsl:element name="a">
 		<xsl:attribute name="href">#<xsl:value-of select="title"/> 
 		</xsl:attribute>
@@ -126,8 +138,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:value-of select="$heure"/>
 </xsl:template>
 
-<xsl:template match="title"  >
-<a name="{title}"><h3><xsl:value-of select="."/></h3></a>
+<xsl:template match="title" >
+	<xsl:element name="a">
+		<xsl:attribute name="name"><xsl:value-of select="."/> 
+		</xsl:attribute>
+		<xsl:element name="a">
+		<xsl:attribute name="href">#top-<xsl:value-of select="."/></xsl:attribute>
+<h3><xsl:value-of select="."/></h3>
+		</xsl:element>
+		</xsl:element>
 </xsl:template>
 
 <xsl:template match="abstract"  >
