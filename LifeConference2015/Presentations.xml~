@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Workshop.xsl"?>
+<schedule>
+<source>http://www.actuaries.org.uk/learn-and-develop/current-and-past-events/life-conference-2015-dublin</source>
+
+<times>
+<timeslot>
+<start>18/11/2015 18:30</start>
+<finish>18/11/2015  18:45</finish>
+<category>Plenary</category>
+<session>welcome</session>
+</timeslot>
+
+<timeslot>
+<start>18/11/2015 18:45</start>
+<finish>18/11/2015  19:45</finish>
+<category>Plenary</category>
+<session>1</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 08:45</start>
+<finish>19/11/2015  9:45</finish>
+<category>Plenary</category>
+<session>2</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 09:45</start>
+<finish>19/11/2015  10:00</finish>
+<category>Plenary</category>
+<session>President</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 10:30</start>
+<finish>19/11/2015  11:20</finish>
+<category>Workshop</category>
+<session>A</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 11:30</start>
+<finish>19/11/2015  12:20</finish>
+<category>Workshop</category>
+<session>B</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 13:30</start>
+<finish>19/11/2015  14:30</finish>
+<category>Plenary</category>
+<session>3</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 14:40</start>
+<finish>19/11/2015  15:30</finish>
+<category>Workshop</category>
+<session>C</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 16:00</start>
+<finish>19/11/2015  16:50</finish>
+<category>Workshop</category>
+<session>D</session>
+</timeslot>
+
+<timeslot>
+<start>19/11/2015 17:00</start>
+<finish>19/11/2015  17:50</finish>
+<category>Workshop</category>
+<session>E</session>
+</timeslot>
+<timeslot>
+<start>20/11/2015 09:00</start>
+<finish>20/11/2015  10:00</finish>
+<category>Plenary</category>
+<session>4</session>
+</timeslot>
+<timeslot>
+<start>20/11/2015 10:10</start>
+<finish>20/11/2015  11:00</finish>
+<category>Workshop</category>
+<session>F</session>
+</timeslot>
+<timeslot>
+<start>20/11/2015 11:40</start>
+<finish>20/11/2015  12:30</finish>
+<category>Workshop</category>
+<session>G</session>
+</timeslot>
+<timeslot>
+<start>20/11/2015 12:40</start>
+<finish>20/11/2015  13:40</finish>
+<category>Plenary</category>
+<session>5</session>
+</timeslot>
+<timeslot>
+<start>20/11/2015 13:40</start>
+<finish>20/11/2015  13:50</finish>
+<category>Plenary</category>
+<session>close</session>
+</timeslot>
+</times>
+<events>
+
+ Wed, 18/11/2015 - 18:30 - 18:45 Welcome to the Life Conference 2015
+
+<event>
+<category>Plenary</category>
+<session>welcome</session>
+<speaker>
+<name>Abigail Caldwell</name>
+<affiliation><corporation>PRA</corporation></affiliation>
+<affiliation><role>Chair</role><corporation>Life Conference Programme Committee 2015</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Plenary</category>
+<session>1</session>
+<title>Culture and Governance: Acting Together for a Happy Marriage</title>
+<abstract>
+    In a world where the operating environment is increasingly dynamic and interconnected, it is increasingly challenging for firms to manage consumer and shareholder interests in a sustainable manner.  Permeating an appropriate culture right throughout the business has never been more important. Sylvia Cronin, Director of Insurance Supervision with the Central Bank of Ireland shares her thoughts on the importance of robust governance underpinning a culture of ‘doing the right thing’ and debates the unintended consequences of the regulator being perceived as the conscience for industry.
+</abstract>
+<speaker>
+<name>Sylvia Cronin</name>
+<bio>
+    Sylvia Cronin was appointed as Director of Insurance Supervision in October 2014 and is a Member of the European Insurance and Occupational Pensions Authority (“EIOPA”) Board of Supervisors.
+</bio>
+<affiliation><corporation>PRA</corporation></affiliation>
+<affiliation><role>Director of Insurance Supervision</role><corporation>Central Bank of Ireland</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Plenary</category>
+<session>2</session>
+<title>Professional Skills for Experienced Members: The Journey Continues</title>
+<abstract>    The need to be professional is ever present.  The world, and the world of insurance, has moved on from last year, but that hasn’t reduced our need to be professional.  If anything the need has increased.  We explore some of the current concerns and how you can rise to the challenge.  This will be an interactive session    Being professional also means being aware of and complying with all the relevant regulations.  We will provide an update on regulatory hot topics.
+</abstract>
+<speaker>
+<name>Neil Hilary</name>
+<bio>Following roles in academia and life insurance, Neil Hilary qualified as an actuary in 1981. Since then he has practised in reinsurance (life and health) and in consultancy (building an insurance division).</bio>
+<affiliation><role>Education Actuary</role><corporation>Institute and Faculty of Actuaries</corporation></affiliation>
+<affiliation><corporation>Professionalism Content Working Group</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Malcolm Slee</name>
+<affiliation><corporation>Professionalism Content Working Group</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Plenary</category>
+<session>President</session>
+<title>Presidential Update</title>
+<speaker>
+<name>Fiona Morrison</name>
+<affiliation><role>President</role><corporation>Institute and Faculty of Actuaries</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Plenary</category>
+<session>3</session>
+<title>Plate Spinning</title>
+<speaker>
+<bio>Jim is a Managing Director and Global Head of the Fundamental Credit Strategy Group. Jim is a top ranked analyst, consistently Top 3 in all the major analyst surveys over the last 15 years.
+</bio>
+<name>Jim Reid</name>
+<affiliation><role>Managing Director and Global Head of the Fundamental Credit Strategy Group</role><corporation>Deutsche Bank</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Plenary</category>
+<session>4</session>
+<title>Plenary session</title>
+<speaker>
+<name>Ben Page</name>
+<bio>Ben Page is Chief Executive of Ipsos MORI, one of the UK’s biggest market research organisations, and sits on the Global Ipsos Management Council.
+</bio>
+<affiliation><role>Chief Executive</role><corporation>Ipsos MORI</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Plenary</category>
+<session>5</session>
+<title>Closing Keynote</title>
+<speaker>
+<name>Rt Hon Vince Cable</name>
+<bio>Vince Cable served as Secretary of State for Business, Innovation and Skills in the Conservative/Liberal Democrat coalition government. He served in the post for five years,before which he was Lib Dem Shadow Chancellor.</bio>
+</speaker>
+</event>
+
+<event>
+<category>Plenary</category>
+<session>close</session>
+<title>Conference close</title>
+<speaker><name>Aditi Parkekh</name>
+<affiliation><corporation>NN Group</corporation></affiliation>
+<affiliation><role>Deputy Chair</role><corporation>Life Conference Programme Committee 2015</corporation></affiliation>
+</speaker>
+</event>
+
+
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>1</placecode>
+<title>La Dolce Vita or Mission Impossible</title>
+<abstract>Working abroad can be one of the most rewarding experiences on offer in the modern work place, however it is not without its challenges. The speakers have both worked abroad and provide insight on:
+
+<ul>
+<li>        What to expect</li>
+<li>        The benefits (and pitfalls)</li>
+<li>        How to maximise the experience when you move on.</li></ul></abstract>
+<speaker>
+<name>Samuel Lever</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Brian Paton</name>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>2</placecode>
+<title>ORSA Balance Sheet and Capital Projection Options – Pros, Cons and Practicalities</title>
+<abstract>    Solvency II requires firms to project their balance sheet and SCR for the ORSA, and these projections also provide valuable MI. This talk will cover:
+<ul>
+<li>    The drivers requiring projection capabilities</li>
+<li>        The range of approaches to project assets, liabilities and SCR along with pros and cons of each</li>
+<li>        Market practice across Europe and more widely</li>
+<li>        Practical challenges in implementing projection capabilities.</li></ul>
+</abstract>
+<speaker>
+<name>Loic Bellettre</name>
+<affiliation><corporation>Ernst &amp; Young</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Simon Johnson</name>
+<affiliation><corporation>Zurich Assurance Ltd</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>3</placecode>
+<title>Product Rationalisation, Part VII Transfers, and Part 26 Schemes</title>
+<abstract>Many in-force life insurance policies are “obsolete” products, but current legislation doesn’t permit easy rationalisation.
+        Drawing on recent Australian thinking about this, the author considers:
+<ul>
+<li>            what can currently be done about this problem</li>
+<li>            the risks of product rationalisations without explicit policyholder consent</li>
+<li>            some principles for permitting rationalisation of life insurance products</li>
+<li>            why legislative change is needed.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Michael Aa</name>
+<affiliation><corporation>Phoenix Group</corporation></affiliation>
+</speaker>
+</event>
+    
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>4</placecode>
+<title>Condoms and Sunscreen (and Other Tales from the UK Protection Market)</title>
+<abstract>   Discussion of opportunities and challenges in the UK protection market, including:
+<ul>
+<li>    Market perspectives</li>
+<li>        Volumes and trends from Swiss Re's Term and Health Watch data</li>
+<li>        Change within the industry</li>
+<li>        Innovation success stories and emerging trends</li>
+<li>        Key developments and disruption in the immediate future.</li>
+</ul>
+</abstract>
+<speaker>
+<name>Donna Cowell</name>
+<affiliation><corporation>Swiss Re</corporation></affiliation>
+</speaker>
+<speaker>
+<name>tbc</name>
+</speaker>
+</event>
+    
+
+    
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>5</placecode>
+<title>Money for Nothing, Spreads for Free</title>
+<abstract>   With continued focus on Solvency II and lengthy committee processes to go through, having the ability to exploit opportunities to increase risk-adjusted profits can be challenging.     With yields low, spreads narrow and equity markets at all-time highs, firms who are readily able to take advantage of market dislocations will be best placed to succeed in an ever-more challenging regulatory environment.     Using a number of examples, we'll look at how such opportunities can be exploited and how identification of observable variables can help embed such techniques into BAU investment management.
+</abstract>
+<speaker>
+<name>Andrew Kenyon</name>
+<affiliation><corporation>RBS</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Dr Robin Thompson</name>
+<affiliation><corporation>RBS</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Henrik Wijkander</name>
+<affiliation><corporation>Prudential</corporation></affiliation>
+</speaker>
+</event>
+    
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>6</placecode>
+<title>A Balanced View on Long-Term Care</title>
+<abstract>    With sustained mortality improvements, the need for long-term care is ever increasing.  Funding long-term care remains a challenge.  This presentation aims to provide a balanced view of the current status:
+
+<ul>
+<li>        Recent developments in public policy</li>
+<li>        LTC insurance offerings in different markets – success stories, pitfalls, shortcomings</li>
+<li>        Challenges in offering LTC insurance.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Mari-Lizette Malherbe</name>
+<affiliation><corporation>Munich Re</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Susan Elliott</name>
+<affiliation><corporation>Met Life</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>7</placecode>
+<title>Update on IFoA Regulatory Issues</title>
+<abstract>    We will cover new IFoA regulatory initiatives which are of interest to members working in the Life area.  This will include Solvency II Practising Certificate requirements and APS X2 .  We will also include a session on 1 or more of the IFoA's professionalism videos which will be of relevance to Life members.
+</abstract>
+<speaker>
+<name>Christine McConnell</name>
+<affiliation><corporation>Institute and Faculty of Actuaries</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>8</placecode>
+<title>Actuarial Data Needs Today and in the Future</title>
+<abstract>The actuarial profession is at a tipping point and a combination of disruptive technologies (E.g. Cloud Computing) and external pressures are creating a unique opportunity to move from being valued as results producer to insightful adviser. For a prudent but forward looking profession, this is exciting and scary in equal measure.
+</abstract>
+<speaker>
+<name>David Alison</name>
+<affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Gavin Lubbe</name>
+<affiliation><corporation>KPMG Canada</corporation></affiliation>
+</speaker>
+</event>
+    
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>9</placecode>
+<title>High Age Mortality</title>
+<abstract>    With increasing life expectancy and low discount rates the financial significance of mortality rates – and mortality improvement rates – at ages 90+ is increasing.  At these high ages, insured and pensioner data becomes scarce and almost all datasets are subject to uncertainty and distortion.  The CMI’s High Age Mortality Working Party will present its findings and highlight the practical implications.
+</abstract>
+<speaker>
+<name>Steve Bale</name>
+<affiliation><corporation>Legal &amp; General</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Mark Cooper</name>
+<affiliation><corporation>Rothesay Life</corporation></affiliation>
+</speaker>
+</event>
+    
+<event>
+<category>Workshop</category>
+<session>A</session>
+<placecode>10</placecode>
+<title>For Sale: Annuity. One Careful Owner, Full Service History</title>
+<abstract>    The creation of a secondary annuity market creates exciting new opportunities for consumers, insurance companies and fund managers.  This session considers these opportunities as well as:
+<ul>
+<li>        the consumer risks</li>
+<li>        the asset considerations for potential investors</li>
+<li>        the lessons that can be learnt from the other secondary insurance markets</li>
+<li>        the challenges in creating a market.</li>
+</ul>
+</abstract>
+<speaker>
+<name>Jody Glennie</name>
+<affiliation><corporation>Barnett Waddingham</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Michael Henderson</name>
+<affiliation><corporation>Barnett Waddingham</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>1</placecode>
+<title>Actuary vs Data Scientist vs Statistician</title>
+<abstract>    Being a Data Scientist is apparently the sexiest job of the 21st century – but what actually is a data scientist and what do they do?  Together with a bona fide data scientist we investigate what they bring to a business.  How do they differ from Actuaries and Statisticians and are they a threat or opportunity for the future of the actuarial profession?
+</abstract>
+<speaker>
+<name>Chris Reynolds</name>
+<affiliation><corporation>PartnerRe</corporation></affiliation>
+</speaker>
+<speaker>
+<name>tbc</name>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>2</placecode>
+<title>Reinsurance should be a Tool, not a Habit</title>
+<abstract>    The Life and Health Reinsurance Working Party formed in 2014 with a goal to understand the qualitative &amp; quantitative basis of buying decisions, and predict how this may evolve with changing regulations in future, will:
+
+<ul><li>        present an analysis of several regulatory frameworks affecting reinsurance</li>
+<li>        summarise multi-country interviews of decision-makers</li>
+<li>        present unusual case studies into why reinsurance was or was not implemented.</li>
+</ul>
+</abstract>
+<speaker>
+<name>Benoit Rio</name>
+<affiliation><corporation>Life and Health Reinsurance Working Party</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Greg Solomon</name>
+<affiliation><corporation>Life and Health Reinsurance Working Party</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Vincent Regnier</name>
+<affiliation><corporation>Life and Health Reinsurance Working Party</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>3</placecode>
+<title>Investments and the Optimising of Capital under Solvency II</title>
+<abstract>    On the eve of Solvency II going live, two industry experts reminisce about what the industry has done to re-optimise capital under the new regime, and to forecast developments and methods to come. They will focus on the use of investments in optimisation. Matt Modisett, PhD, FIA, ASA, MMA is the author of Solving Solvency: 100 Tips for Managing Insurance Capital in a Shifting Regulatory Landscape, and is an innovative leader in capital optimisation.   Joshua Waters FIA, CERA, CQF is an Investment Risk Actuary specialising in quantitative finance.
+</abstract>
+<speaker>
+<name>Joshua Waters</name>
+<affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Matt Modisett</name>
+<affiliation><corporation>PIC</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>4</placecode>
+<title>Implementation of IFRS4 Phase II - Technical and Practical Challenges
+</title>
+<abstract>    Phase II has been many years in the making but as the technical points are now approaching finalisation, organisations are considering how  this impacts their balance sheet and future profits, and how this change can be most practically implemented.  In this session we will provide an overview of the key issues to consider when starting your Phase 2 project and the types of activities companies are completing in preparation for the implementation date. We will consider the potential financial impacts of the standard as well as implications for the industry from a products and market perspective.  We will also cover how companies may leverage some of their existing Solvency II development to maximise efficiency in the IFRS implementation.
+
+</abstract>
+<speaker>
+<name>Rebecca Wyatt</name>
+<affiliation><corporation>Prudential</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Richard Olswang</name>
+<affiliation><corporation>Prudential</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Dominic Veney</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Charles Garnsworthy</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>5</placecode>
+<title>The Use of Non-Traditional Assets in Accumulation and Decumulation</title>
+<abstract>    The working party's second body of research focuses on: 
+
+<ul><li>        Availability of assets</li>
+<li>        Non-traditional assets in growth phase and in decumulation phase</li>
+<li>        Tradeable annuities.</li>
+</ul>
+        This talk will discuss the use of non-traditional assets to maximise options for the policyholder as well as optimising returns and volatility for the shareholder.
+
+</abstract>
+<speaker>
+<name>Gareth Mee</name>
+<affiliation><corporation>Non-Traditional Assets Working Party</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Eugene Dimitriou</name>
+<affiliation><corporation>Non-Traditional Assets Working Party</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>6</placecode>
+<title>Pensions Freedom and Choice - What can we Learn from Ireland's Experience?</title>
+<abstract>    In Ireland, the 1999 Budget unexpectedly heralded the end of compulsory annuitisation, triggering a great deal of uncertainty over the potential implications. There are striking parallels with the introduction of Pension Freedom and Choice in the UK. What lessons can the UK take from the Irish experience?  We'll outline the market similarities and chart the immediate and long-term impacts and the unintended consequences of the changes in Ireland. We'll also draw parallels with the UK market, look at early experiences and make some predictions.   
+</abstract>
+<speaker>
+<name>Colin Bell</name>
+<affiliation><corporation>Aegon Ireland</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Kevin Manning</name>
+<affiliation><corporation>Milliman Ireland</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>7</placecode>
+<title>What Really Happens if an Insurer goes Bust?</title>
+<abstract>
+    Reinsurers can often lend huge sums of money to insurance companies against the value of their inforce portfolios.  Contingent repayments stretch over a number of years and are of course dependent on the company remaining solvent - how confident are we that this will be the case in 5 or 10 years time?  In this presentation we will look to understand the consequences for a financing reinsurer if a long-term insurer does become insolvent.  For example what is the process, who gets involved and what regulations are in place.
+
+</abstract>
+<speaker>
+<name>David Walton</name>
+<affiliation><corporation>Munich Re</corporation></affiliation>
+</speaker>
+<speaker>
+<name>tbc</name>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>8</placecode>
+<title>Herding Behaviour as a Source of Risk – Are Actuaries Immune?
+
+</title>
+<abstract>
+    Herding is an instinctive animal behaviour that has carried through the evolutionary process to our modern lives.  In this talk, the Herding Amongst Actuaries Working Party explores:
+
+<ul>
+<li>        Examples of positive and negative herding behaviour in an office environment, including impacts and case studies</li>
+<li>        Is herding behaviour a significant source of systemic risk?</li>
+<li>        Are changes needed to mitigate adverse herding behaviour?</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Travis Elsum</name>
+<affiliation><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Colm Fitzgerald</name>
+<affiliation><corporation>University College Dublin</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Kaldip Bassi</name>
+<affiliation><corporation>Prudential Regulation Authority</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>9</placecode>
+<title>Skilled Persons (S166 Reviews) - Practical Tips to make sure it Goes Smoothly</title>
+
+<abstract>    Many life actuaries and their companies now have to deal with a Section 166 Skilled Person investigation and report commissioned by the PRA or FCA.  These investigations are commissioned by the regulators when a particular issue has arisen, but also now for generally regulatory and investigatory purposes.  This session will be presented by two S166 experts (one actuarial Partner and one non-actuarial Director) and will cover:
+
+<ul>
+<li>        Overview of the process, including bi-lateral and tri-lateral meetings with the regulator</li>
+<li>        How to get clarity in the Requirement Notice</li>
+<li>        What to expect from the Skilled Person</li>
+<li>        How to help the Skilled Person get the best result for you.</li>
+</ul>
+</abstract>
+<speaker>
+<name>Trevor Jones</name>
+<affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Karen Bloomfield</name>
+<affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>B</session>
+<placecode>10</placecode>
+<title>    Findings of the FCA's Thematic Work on the Fair Treatment of Long-standing Customers in Life Insurance</title>
+
+<abstract>
+
+    The FCA undertook a thematic study during 2014-2015 into the whether firms are operating historic (often termed 'legacy' or 'heritage') products in a fair way and whether they have adopted strategies that do not result in the fair treatment of existing customers. We will talk through some of the key findings.
+</abstract>
+<speaker>
+<name>Andrew Ruddle</name>
+<affiliation><corporation>Financial Conduct Authority</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Catherine Gavin</name>
+<affiliation><corporation>Financial Conduct Authority</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>1</placecode>
+<title>Capital Management under Solvency II – Managing Forward Volatility, as Important as Day One Capital Adequacy?</title>
+<abstract>
+<ul>
+<li>        How Volatile is the Solvency II Balance Sheet</li>
+<li>        How can insurers manage forward volatility</li>
+<li>        Optimising the Risks on an Intra-Group Basis</li>
+<li>        Extrapolating from the Banking Sector</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>
+Michael Eakins</name>
+<affiliation><corporation>
+Goldman Sachs</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Jeff Davies</name>
+<affiliation><corporation>
+EY</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>2</placecode>
+<title>Understanding the Customer</title>
+<abstract>
+    The Life Insurance industry lags many others in understanding the end customer. What motivates the purchase decision? How does the customer think about insurance? What influences lapse or other behaviour? The entire value chain of the business is heavily affected by these questions, from product design and distribution through to valuation and capital requirements analysis, where customer behaviour can materially drive results. We present results from a global survey and offer some ideas for further developing this topic.
+
+</abstract>
+<speaker>
+<name>Thomas Hull
+</name>
+<affiliation><corporation>PwC
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Stephen Collins</name>
+<affiliation><corporation>SCOR Global Distribution Solutions
+</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>3</placecode>
+<title>Finding a Safe Haven</title>
+<abstract>    The aim: facilitating an orderly run-off of a with-profits fund. 
+    Our approach: a series of transactions including new servicing arrangements, selling parts of the business and reinsurance.  The talk will include:
+
+<ul>
+<li>        An overview of transactions over the last 2 years.</li>
+<li>        Key risks addressed/considered, including the need to balance the risks/costs of different implementation timetables.</li>
+<li>        Specific considerations relating to types of with-profits business.</li>
+<li>        Operational aspects and thoughts on getting a deal done.</li>
+</ul>
+
+    The presenters will provide an actuary’s personal experience of working within the Society and a lawyer’s experience of providing legal support.
+
+
+</abstract>
+<speaker>
+<name>Rebecca Johnson</name>
+<affiliation><corporation>Marine and General Mutual
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Craig Clever</name>
+<affiliation><corporation>Slaughter and May
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>4</placecode>
+<title>The ORSA: Wider Business Responsibilities</title>
+<abstract>    With full implementation of Solvency II now just weeks away, the ORSA is about to take centre stage as a key aspect of the decision-making process of insurers and reinsurers.  By now, we have all heard about the responsibilities of those involved in the ORSA process itself, but what are the wider responsibilities when it comes to ensuring that the ORSA is fully integrated into the running of the organisation, and what supports can be put in place in order to maximise the chances of success.
+
+
+</abstract>
+<speaker>
+<name>Eamonn Phelan</name>
+<affiliation><corporation>Milliman 
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Billy Galavan</name>
+<affiliation><corporation>Zurich Life Assurance Plc 
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>5</placecode>
+<title>Interest Rates: What the Past Tells us about The Future</title>
+<abstract>    The early months of 2015 have seen negative yields on government and corporate bonds in several European markets and there have been isolated periods of negative rates on various currencies prior to the current crisis and quantitative easing response. The extreme events working party considers the impact of quantitative easing relative to its stated aims, what limits might apply to how negative rates can go, what this implies for investment, as well as the lessons actuaries can draw from events their models said was impossible.
+</abstract>
+<speaker>
+<name>members</name><affiliation><corporation>Extreme Events Working Party
+</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>6</placecode>
+<title>Royal London and CIS – A Case Study</title>
+<abstract>
+    Royal London acquired CIS in 2013, and effected a Part VII transfer of CIS into Royal London at the end of 2014.  This session will take the form of a Case Study into the two parts of this transaction as follows:   
+
+<ol>
+<li>        Part A:Anthony Lee, formerly with CIS and now with Royal London, will cover the key aspects of the acquisition as follows:
+<ul>
+<li>            Rationale from both the Co-operative Banking Group (CIS's owner) and the Royal London perspectives.</li>
+<li>            Key issues arising and how they were dealt with.</li>
+<li>           Key protections put in place for the CIS policyholders.</li>
+</ul>
+</li>
+<li>        Part B:John Jenkins, Partner, KPMG, was the Independent Expert for the Part VII transfer and will cover:
+<ul>
+<li>            Interaction between the transfer and the acquisition arrangements.</li>
+<li>            Issues concerning the release of the General Reserve.</li>
+<li>            Other interesting features of the transfer.</li>
+</ul>
+</li>
+</ol>
+</abstract>
+<speaker>
+<name>John Jenkins</name>
+<affiliation><corporation>KPMG
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Anthony Lee</name>
+<affiliation><corporation>Royal London
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>7</placecode>
+<title>THE BPA Market - the Wonder Woman of the Life Sector?</title>
+<abstract>
+    The BPA market is the most dynamic part of the life sector. Transaction records are being broken every few months and, exciting opportunities abound for life and pensions practice areas to work together. This talk will cover:   
+
+<ul>
+<li>        the players in the market: what are their similarities and differences?</li>
+<li>        a pension consultant's perspective into the new business process: what trustees want and how they can seamlessly transition to an insurer</li>
+</ul>
+</abstract>
+<speaker>
+<name>Kim Durniat</name>
+<affiliation><corporation>Barnett Waddingham LLP
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Gavin Markham</name>
+<affiliation><corporation>Barnett Waddingham LLP
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>8</placecode>
+<title>Decumulation in Europe - A 16 Country Perspective</title>
+<abstract><ul>
+<li>        Presentation will cover the work of the Actuarial Association of Europe's taskforce looking at decumulation of pension assets.</li>
+<li>        Includes a 16 country survey of the different decumulation system across Europe</li>
+<li>        Identifies current gaps</li>
+<li>        Giving a directional steer on best practice</li>
+<li>        Considers the use of cross border product solutions to fill gaps.</li>
+</ul>
+
+
+</abstract>
+<speaker>
+<name>Duncan Robertson</name>
+</speaker>
+<speaker>
+<name>members</name>
+<affiliation><corporation>AAE Working Party
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>9</placecode>
+<title>Talent in Insurance</title>
+<abstract>
+    The Insurance industry has been through a difficult period in recent years.  To support the growth of the sector, organisations need to look to their talent.  This panel discussion will cover: 
+
+<ul>
+<li>        Reasons the sector is not attracting forward-thinking, innovative and digitally savvy talent</li>
+<li>        Outline of the Talent that is needed to grow the sector and what the requirements of that talent are (i.e. understanding Millennials needs)</li>
+<li>        Key human capital trends that will have a significant impact on how Insurance organisations need to develop talent into the future</li>
+<li>        Ideas for developing talent strategies that will develop and grow the insurance sector and individual organisation within it.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Stephen Keane</name>
+<affiliation><corporation>Deloitte
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Ciara Regan</name>
+<affiliation><corporation>Deloitte
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Yvonne Lynch</name>
+<affiliation><corporation>Society of Actuaries in Ireland
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Barry Cudmore</name>
+<affiliation><corporation>Aegon Ireland
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>C</session>
+<placecode>10</placecode>
+<title>Communicating Choices in Internal Models
+</title>
+<abstract>
+    This session focuses on aggregation techniques used by insurers as part of building their internal models for Solvency II. The emphasis of the session is not on the technical details of specific techniques, but rather on practical aspects and criteria employed in testing, communicating and justifying to stakeholders (such as Boards and regulators) the choices made.
+
+</abstract>
+<speaker>
+<name>Nikos Katrakis</name>
+<affiliation><role>Chair</role><corporation>Life Aggregation and Simulation Working Party
+</corporation></affiliation>
+</speaker>
+<speaker>
+<name>members</name>
+<affiliation><corporation>Life Aggregation and Simulation Working Party
+</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>1</placecode>
+<title>Implementing Unit Linked Matching</title>
+<abstract>
+    The risk management and regulatory basis for moving unit linked own funds out of assets chosen by the policyholder and into less risky assets. Including:
+
+<ul>
+<li>        Implementation choices</li>
+<li>        Building a liquidity framework to support new risks introduced TCF and customer impacts</li>
+<li>        Drawing on live experience of the presenters.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Naomi Burger</name>
+<affiliation><role></role><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Paul Turnbull</name>
+<affiliation><corporation>Aviva</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>2</placecode>
+<title>Behavioural Finance for Actuaries</title>
+<abstract>
+    Decision makers are often not rational which can lead to poor decision making as a result of behavioural bias. This is particularly important given recent changes to pensions and FCA focus in this area. This session reports on the findings of the cross-practice working party, which is reviewing the application of behavioural finance to actuarial work. The aim of the working party is to improve understanding and to provide recommendations of how behavioural finance can be incorporated into actuarial work to enhance the role of the actuary and lead to more effective decision making.
+
+</abstract>
+<speaker>
+<name>Kathy Byrne</name>
+<affiliation><role></role><corporation>Askis Limited</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Paul Cook</name>
+<affiliation><corporation>Grant Thornton</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>3</placecode>
+<title>The Impact of the 2009/2010 European Debt Crisis on Mortality Trends</title>
+<abstract>
+    This presentation will analyse the impact on mortality of the 2009/2010 European Debt Crisis by comparing the mortality, pre and post the crisis, of those countries most adversely affected by the crisis (Ireland, Greece, Italy, Portugal, Spain) with countries less directly affected by the crisis. Trends in all-cause and by cause of death mortality will be investigated.
+
+</abstract>
+<speaker>
+<name>Mary Hall</name>
+<affiliation><role></role><corporation>University College Dublin</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Colm Murphy</name>
+<affiliation><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Shane Prendergast</name>
+<affiliation><corporation>Irish Life</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>4</placecode>
+<title>How to Tackle Low Interest Rate? - Case Study of Japan</title>
+<abstract>
+    Focusing on low interest rate environment in Japan, we will show:
+
+<ul>
+<li>        The history of deep low interest rate in Japan.
+<li>        Bankruptcies and reorganization of Japanese life insurance companies.</li></li>
+<li>        Changes in regulatory policies.</li>
+<li>        Parts of our solution in respect to investment, asset management, product development, risk management etc.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Hiroshi Iizuka</name>
+<affiliation><role></role><corporation>Deloitte Touche Tohmatsu LLC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Kiyotaka Nakajima</name>
+<affiliation><corporation>MetLife Insurance K.K.</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Keita Kakiuchi</name>
+<affiliation><corporation>Swiss Re</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>5</placecode>
+<title>How Developments in the Pharmaceutical Sector may Impact Life Insurers in the Future</title>
+<abstract>
+
+    In this talk, Philippe and Jo will talk through the experience of applying actuarial and analytics skills in the Pharmaceutical sector.  This will include some case studies of recent projects and an overview of the potential for actuaries to add value more generally in the health sector in future.  The talk will also share thoughts on how these developments may impact on the future of the life insurance and retirement market.
+
+</abstract>
+<speaker>
+<name>Philippe Guijarro</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Jo Pisani</name>
+<affiliation><role>Pharmaceutical and Life Science Consulting Leader</role><corporation>PwC</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>6</placecode>
+<title>Product Developments from Africa</title>
+<abstract>
+    Many innovative new life and health products have had their roots in Africa. We will begin by looking at some famous exports, including critical illness products, novel distribution approaches and wellness initiatives, before looking at case studies demonstrating a number of insightful insurance-related concepts currently live in Africa, that are yet to be fully developed by other world markets.
+
+</abstract>
+<speaker>
+<name>Greg Becker</name>
+<affiliation><role></role><corporation></corporation></affiliation>
+</speaker>
+<speaker>
+<name>Mohamed Faye</name>
+<affiliation><corporation>PartnerRe</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>7</placecode>
+<title>Friends Life With-Profits Fund Annuity “Buyout” Case Study</title>
+<abstract>
+    Non-profit annuities in contracting with-profits funds can expose with-profits policyholders to proportionately higher credit and longevity risks over time.  Friends Life has carried out a series of transactions to reallocate such annuities to non-profit funds.  KPMG acted as the External Advisor to provide, and validate consistency with, market pricing.  This Case Study considers the key issues.
+
+</abstract>
+<speaker>
+<name>Andy Chan</name>
+<affiliation><role></role><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>John Lim</name>
+<affiliation><role></role><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Darren Thorne</name>
+<affiliation><corporation>Aviva/Friends Life</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>8</placecode>
+<title>Cash, Capital and Returns: How Solvency II Impacts Investors
+</title>
+<abstract>
+    Solvency II represents a major change in how insurance regulatory solvency is assessed on a macro perspective.  It also impacts pretty much all company KPIs, including cash, capital and returns both in aggregate and by business line.  Communicating these impacts, as well as guiding to acceptable ranges, presents many challenges which we will highlight and address in this session.
+
+</abstract>
+<speaker>
+<name>Simon Woods</name>
+<affiliation><role></role><corporation>EY</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Colin Simpson</name>
+<affiliation><corporation>Aviva</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>9</placecode>
+<title>Five Applications of Predictive Analytics for Life Insurers</title>
+<abstract>
+
+    An engaging talk aimed at highlighting three things:
+
+<ul>
+<li>        The varied opportunities to apply predictive analytics to pricing and underwriting issues</li>
+<li>        How to overcome some of the common hurdles</li>
+<li>        Outline the potential benefits.</li>
+</ul>
+        Five practical case studies, with an interactive format.
+
+</abstract>
+<speaker>
+<name>David Hughes</name>
+<affiliation><role></role><corporation>Barnett Waddingham</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Alan Chalk</name>
+<affiliation><corporation>UCL</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>D</session>
+<placecode>10</placecode>
+<title>MASTERCLASS</title>
+</event>
+
+Transfer time Thu, 19/11/2015 - 16:50 - 17:00 Transfer time
+Workshop Thu, 19/11/2015 - 17:00 - 17:50 Workshop Session E
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>1</placecode>
+<title>Risk-Based Profit and Loss Attribution for Annuities</title>
+<abstract>
+    The Risk-Based Profit and Loss Attribution Working Party’s aim is to analyse:
+
+<ul>
+<li>        profitability in terms of the risks identified by the risk management function</li>
+<li>        Risk impacts quantified simultaneously, rather than in a fixed order as with a traditional analysis of surplus</li>
+<li>        Methodology can also be used to perform instantaneous stresses for economic capital calculations</li>
+<li>        Example to cover application to annuity business.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Oliver Lockwood</name>
+<affiliation><role></role><corporation>Risk-Based Profit and Loss Attribution Working Party</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Ravi Dubey</name>
+<affiliation><corporation>Risk-Based Profit and Loss Attribution Working Party</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>2</placecode>
+<title>Validating Aviva UK Life's Internal Model
+</title>
+<abstract>
+    This talk will consider the challenges of validating a complex Internal Model from the perspective of the Risk Function and an external Independent Model Validation team.
+</abstract>
+<speaker>
+<name>Andrew James</name>
+<affiliation><role></role><corporation>PwC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Richard Reid</name>
+<affiliation><corporation>Aviva</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>3</placecode>
+<title>The Over 50s Rip Off?</title>
+<abstract>
+    In January this year Which? published analysis of 55 products for overs 50s and found “some are a rip-off compared with mainstream alternatives”.  Nick and Hamish will take a fresh look at the products studied – over 50s insurance, equity release and funeral plans – and ask the question “Can the industry do better to provide better consumer outcomes”?  Concentrating initially on recent innovations to improve consumer protection in over 50s products they will debate whether they are just papering the cracks or are actually delivering the full makeover required.  They will further discuss whether this can lead to improvements for customers in other products.
+
+</abstract>
+<speaker>
+<name>Hamish Wilson</name>
+<affiliation><role></role><corporation>Hymans Robertson</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Nick Reilly</name>
+<affiliation><corporation>Royal London</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>4</placecode>
+<title>Documentation in the 21st Century: Semantic MediaWiki</title>
+<abstract>
+
+<ul>
+<li>        Actuarial models are complex (multi-dimensional, multi-scale) and dynamic (multi-user, multi-version)</li>
+<li>        Documentation purpose is learning (fewer bugs, lower costs, better decisions) not just compliance</li>
+<li>        Documentation tool needs to enable many viewpoints, feedback, self-improvement</li>
+<li>        Semantic MediaWiki (Wikipedia software) as tested solution</li>
+<li>        How Semantic MediaWiki was used to document a large model</li>
+<li>        How to set up your own system in 15 minutes.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Will Swales</name>
+<affiliation><role></role><corporation>Blue Actuarial</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Owen Kellie-Smith</name>
+<affiliation><corporation>Aviva</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>5</placecode>
+<title>Liability-Aware Investing for Life Assurers</title>
+<abstract>
+    This talk will discuss a number of related topics in the field of liability-aware investment strategy for life assurers such as:
+
+<ul>
+<li>        Investment strategies for accessing asset illiquidity premia.</li>
+<li>        Discussion of relevant illiquid asset types and their investment characteristics and challenges (e.g. access to opportunities, asset pricing, fees); and their potential SII treatment (assessing matching adjustment; meeting cashflow matching criteria; setting SCR stresses).</li>
+<li>        Diversifying risky asset returns through alternative asset classes. This will analyse the potential benefits of using absolute return funds to diversify risk and obtain capital-efficient expected returns. It will include a case study analysis for a with-profit fund.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Craig Turnbull</name>
+<affiliation><role></role><corporation>Standard Life Investments</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Bruce Porteous</name>
+<affiliation><corporation>Standard Life Investments</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>6</placecode>
+<title>Whither Annuities – Again!  A reprise looking at the market for annuities post 6 April 2015</title>
+<abstract>
+    Following on from the authors’ talk in 2014 when the changes to the annuity market in the light of the new pension freedoms were still embryonic, this session will cover: 
+
+<ul>
+<li>        Change in the demand for annuities – UK experience and updates from other international  experience </li>
+<li>        Changes in customer behaviours – has the linkage between retiring and accessing pension funds fundamentally changed? </li>
+<li>        Effect of Pension Freedoms on the products on offer; innovation or simply greater price competition?</li>
+<li>        The potential consequences of the secondary annuities market</li>
+<li>        Other implications for the insurance industry –guidance, advice, tax, exit fees, legacy products, Lamborghinis and other aspects.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Tim Bateman</name>
+<affiliation><role></role><corporation>Mazars</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Matt Logan</name>
+<affiliation><corporation>Aviva</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>7</placecode>
+<title>Mind the Gap - Patching up your Solvency II Reporting</title>
+<abstract>
+    Regulatory reporting and management information under Solvency II covering:
+
+<ul>
+<li>        Challenges faced by the insurance companies to report under Solvency II
+<li>        How companies and boards are coping with the new requirements</li></li>
+<li>        Considerations for patching up your existing reporting solutions versus an industrial Solvency II solution</li>
+<li>        Our learnings across EMEA and the emerging best in class practices for Solvency II reporting.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Maaz Mushir</name>
+<affiliation><role></role><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Carol Lynch</name>
+<affiliation><corporation></corporation>Deloitte</affiliation>
+</speaker>
+<speaker>
+<name>John Kilbride</name>
+<affiliation><corporation></corporation>Deloitte</affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>8</placecode>
+<title>Emerging Risks: Opportunities and Threats of Disruptive Technology</title>
+<abstract>
+    Disruption comes from how technology (r)evolution could perturb business models.  Our more connected world shifts control to the consumer.  Insurers that do not respond face becoming irrelevant.
+
+    We discuss:
+
+<ul>
+<li>        Ways to identify and monitor these risks;</li>
+<li>        Disrupting traditional business models, embracing technologies, and improving customer experiences;</li>
+<li>        Building in mean reversion over long term assumptions.</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>Dr Ruth Middleton</name>
+<affiliation><role></role><corporation>EY</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Marcia Cantor-Grable</name>
+<affiliation><corporation>Prudential plc</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>9</placecode>
+<title>Conversions from With-Profits to Non-Profit:  Two Case Studies from Sun Life Financial of Canada</title>
+<abstract>
+    Sun Life of Canada Financial of Canada (UK) recently completed conversions of two of its with-profits funds to non-profit.   In 2014, the Cannon Fund was converted to unit-linked benefits under a Companies Act Scheme of Arrangement.  In 2015, the Confederation Life Fund was converted to fixed benefits using powers granted under a previous demutualisation scheme.  In this session Rosalind Rossouw, John Jenkins, and Jonathan Martin will between them cover the following aspects for both conversions:
+
+<ul>
+<li>        Why the conversion was necessary/desirable</li>
+<li>        The design of the conversion scheme, including how options were dealt with
+        Financial evaluations</li>
+<li>        Policyholder impact assessment</li>  
+<li>        Policyholder communications</li>
+<li>        Actuarial reporting</li>
+<li>        Policyholder voting and Court arrangements (for the Cannon Fund Scheme of Arrangement).</li>
+</ul>
+
+</abstract>
+<speaker>
+<name>John Jenkins</name>
+<affiliation><role></role><corporation>KPMG</corporation></affiliation>
+<affiliation><role>WPA</role><corporation>Sun Life Financial of Canada</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Rosalind Rossouw</name>
+<affiliation><corporation>Sun Life Financial of Canada</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Jonathan Martin</name>
+<affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>E</session>
+<placecode>10</placecode>
+<title>Masterclass </title>
+<abstract>
+</abstract>
+<speaker>
+<name></name>
+<affiliation><role></role><corporation></corporation></affiliation>
+</speaker>
+<speaker>
+<name></name>
+<affiliation><corporation></corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>1</placecode>
+<title>Stochastic Reserving: Lessons Learned from General Insurance</title>
+<abstract>Reserve deterioration is an important risk for all insurance companies. To understand this risk, we need to model the new assumptions that actuaries might make in future. There are sophisticated models for stochastic mortality which can be difficult to understand or explain. The corresponding problems in general insurance are often addressed with more intuitive bootstrap methods. This talk will consider how the bootstrap approach may be applied to life decrements such as mortality and lapses, discussing the advantages and disadvantages.</abstract>
+<speaker>
+<name>Andrew D Smith</name>
+<affiliation><corporation>Deloitte</corporation></affiliation>
+</speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>2</placecode>
+<title>Understanding and Comparing Longevity Projections</title>
+<abstract><p>Many techniques are used to project longevity. We will:
+<ul>
+<li>        Describe and compare different longevity models.</li>
+<li>        Examine the principles and assumptions of different models.</li>
+<li>        Consider the benefits of particular models for different purposes.</li>
+<li>        Highlight the merits of using multiple models.</li>
+</ul></p>
+<p>    This session is aimed at delegates without specialist longevity expertise who need to assess proposed assumptions.</p>
+</abstract>
+<speaker>
+<name>Jon Palin</name>
+<affiliation><corporation>Barnett Waddingham</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Dave Grimshaw</name>
+<affiliation><corporation>Barnett Waddingham</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>3</placecode>
+<title>Making History and Changing the Future</title>
+<abstract>    Discovery Group of South Africa has been operating in the UK over the last decade as a JV and is now operating in its own right through the Vitality brand.  It is very rare for a company to make an application for a brand new licence and this is exactly what VitalityLife has done in 2015.  This session will tell the exciting story of the considerations, challenges and trials and tribulations of setting up a 'new' standalone UK based life insurer.
+</abstract>
+<speaker>
+<name>Richard Baddon</name>
+<affiliation><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>David Hare</name>
+<affiliation><corporation>Deloitte</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Deepak Jobanputra</name>
+<affiliation><corporation>Vitality Life</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>4</placecode>
+<title>Insurance Merger and Acquisition, Auctions</title>
+<abstract>    Introduction to the sale process: outline timetable, roles and responsibilities
+
+<ol>
+<li>        Stage 1 -Preparing a target for sale
+<ul>
+<li>            Group structuring issues: post- Solvency II</li>
+<li>            Vendor due diligence</li>
+<li>            Information memorandum</li>
+<li>            Actuarial valuation</li>
+<li>            Draft sale documentation</li>
+<li>            Separation plan</li>
+</ul>
+</li>
+<li>       Stage 2 - The auction process
+<ul>
+<li>            Maintaining competitive tension</li>
+<li>            Common negotiating points: what is a seller looking for?</li>
+<li>            Treatment of/comfort on actuarial issues and valuation</li>
+<li>            Common deal issues: caps, liability regime and warranty insurance</li>
+</ul>
+</li>
+<li>        Stage 3 – Completing the deal
+<ul>
+<li>            Conditionality</li>
+<li>            Reinsurance and collateral techniques to achieve immediate risk transfer pending Part VII transfer</li>
+<li>            Post-completion steps</li>
+</ul>
+</li>
+</ol>
+</abstract>
+<speaker>
+<name>Geoffrey Maddock</name>
+<affiliation><corporation>Herbert Smith Freehills</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Barnaby Hinnigan</name>
+<affiliation><corporation>Herbert Smith Freehills</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>5</placecode>
+<title>Fundamentally Rethinking ALM post Solvency II</title>
+<abstract>Insurers have got lost in the detail of Solvency II.  We take a step-back and rethink ALM in the new world where insurers are the natural providers of long-term finance:   
+
+<ul><li>        How to think of liabilities as a way to fund asset portfolios, rather than assets as a way to match liabilities</li>
+<li>        Diversification benefits between insurance and investment risk</li>
+<li>        Structural advantages, and disadvantages, that insurers have over other investors e.g. hedge funds, banks, and, inevitably, the impact of regulation including Solvency II</li>
+<li>        Resulting investment mandates for the new world: separating liability management from return generation.</li>
+</ul></abstract>
+<speaker>
+<name>Paul Fulcher</name>
+<affiliation><corporation>Nomura International plc</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Neil Snyman</name>
+<affiliation><corporation>Aviva Investors</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>6</placecode>
+<title>Shouldn't we be Focusing on the Bigger Issues?</title>
+<abstract>The life insurance industry has a number of key issues to tackle if it is to truly grow the protection market.  For example should we be spending time tweaking critical illness definitions when there are a number of other fundamental issues within the industry that deserve greater focus?  In the presentation we will look to explore issues such as whether current product innovation is actually benefiting consumers, the upcoming review of the moratorium on genetic testing and the impact if the right to ask about family industry [history?] when underwriting is lost.
+</abstract>
+<speaker>
+<name>Paul Malloy</name>
+<affiliation><corporation>Munich Re</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>7</placecode>
+<title>Just when you Thought you could Relax, it looks like IFRS 4 Phase 2 will Happen!</title>
+<abstract>After nearly 19 years in the making, the new IFRS accounting standard is expected to be published in 2016.  The Financial Reporting Group of the profession will provide:  
+<ul>
+<li>        an update on the key components of the final expected standard, notably for unit linked and with profits contacts.</li>
+<li>        an assessment of the implications for insurers, the interactions with Solvency II and what insurers should be doing now</li>
+<li>        the perspectives of an analyst on the impact that the new standard and the proposed disclosures will have on the insurance sector.</li>
+</ul></abstract>
+<speaker>
+<name>Anthony Coughlan</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Derek Wright</name>
+<affiliation><corporation>TOPB Solutions Ltd</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Tony Silverman</name>
+<affiliation><corporation>AM Best</corporation></affiliation>
+<affiliation><corporation>IASB</corporation><role>member</role></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>8</placecode>
+<title>Risk Appetite for Life Offices</title>
+<abstract>    The objective of the working party is to assist the professionals (actuaries as well as other professionals) employed in life insurance business in understanding the meaning of Risk Appetite, how it is determined and its application with an aim to suggest the possible ways it can enhance value for different stakeholders.    In the talk we propose to present an update and key findings on the research undertaken by the working party based on study of literature and company annual reports.
+</abstract>
+<speaker>
+<name>Gautam Kakar</name>
+<affiliation><corporation>Risk Appetite for Life Offices Working Party</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>9</placecode>
+<title>Tomorrow's Consumer Needs: Gazing into the Crystal Ball to 2025</title>
+<abstract>What changes in consumer attitudes to insurance and investment products are possible in the next 10 years and how does the insurance industry respond to these?  This presentation will look across all socio-economic groups bearing in mind projected changes in key family life stage timings, use of technology, attitudes to risk, consumer behaviour and medical science.
+</abstract>
+<speaker>
+<name>Colin Dutkiewicz</name>
+<affiliation><corporation>Data and the Tomorrow's Consumer Needs working party</corporation></affiliation>
+</speaker>
+<speaker>
+<name> Nigel Mead</name>
+<affiliation><corporation>Data and the Tomorrow's Consumer Needs working party</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>F</session>
+<placecode>10</placecode>
+<title>Speak Up, Speak Out (Masterclass)</title>
+<abstract>Introverts sometimes find it hard to get their voice heard in situations where there are lots of people. They might sit through a two hour meetings and say absolutely nothing – and kick themselves afterwards for not pointing out potential problems with a proposal made by a colleague from a different department. Or they might try to speak up during a fast-moving discussion and have their contribution overlooked or ignored. This valuable session will give participants the knowledge and skills to be able to assertively and confidently speak up and speak out in a range of situations.
+</abstract>
+<speaker>
+<name>Steve Bavister</name>
+<affiliation><corporation>Speak First</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>1</placecode>
+<title>Capital Motivated Longevity Solutions</title>
+<abstract>    An introduction to capital motivated longevity solutions, referring to the transactions implemented in the Netherlands to date, covering: 
+
+<ul><li>        Main characteristics of these transactions</li>
+<li>        Comparison with longevity swaps as common in the UK</li>
+<li>        How these transactions can improve a life insurance company's capital position under Solvency II</li>
+<li>        How insurance companies can assess the basis risk in case the transaction is based on general population mortality</li>
+</ul></abstract>
+<speaker>
+<name>Andre de Vries</name>
+<affiliation><corporation>RGA</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Frank den Bieman</name>
+<affiliation><corporation>PwC</corporation></affiliation>
+</speaker>
+</event>
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>2</placecode>
+<title>Re-engineering Product Governance for the New World - A Case Study</title>
+<abstract>    The FCA is putting increasing demands on firms to demonstrate that products are appropriate for consumers, both at launch but also on an ongoing basis. The FCA now has the power of product intervention and is currently focussing on product governance in a number of areas including: 
+
+<ul><li>        focus on specific activities in relation to product design and new product approval as firms respond to legislative changes in the retirement market</li>
+<li>        Undertaking review of the legacy market and firms approach to monitoring and oversight of existing business.</li>
+</ul>
+    We will explore with you how we enhanced the Product Governance processes to meet the increasing expectations of the regulator and explore some of the issues we encountered and some of the key steps taken to improve the process touching on governance, oversight, core processes and consideration of value for money and stress testing in design and ongoing monitoring.
+</abstract>
+<speaker>
+<name>David Miller</name><affiliation><corporation>KPMG</corporation></affiliation>
+</speaker>
+<speaker>
+<name>Chris Bridge</name><affiliation><corporation>Friends Life</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>3</placecode>
+<title>Do Customers Understand our Life Products?</title>
+<abstract>Do our customers truly understand the range of risk-return possibilities in life insurance offerings?
+
+        What can we do to clearly express the customer value proposition, customer needs and expectations, and willingness to take risks?
+
+        And how can we easily measure and express variability in potential customer outcomes and disclosure of poor and worst-case customer outcomes?
+
+    This talk describes some of the research that we have undertaken, assesses the impact of impending European legislation in this arena, and presents a Framework for helping customers understand risks and outcomes for insurance products and for avoiding unexpected customer outcomes.
+</abstract>
+<speaker>
+<name>Chris Barnard</name><affiliation><corporation>Risk and Customer Outcomes Working Party</corporation></affiliation>
+</speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>4</placecode>
+<title>Professionalism and Ethics in Real Life</title>
+<abstract><p>Interactive session covering examples of professionalism issues in the Life industry.</p>
+
+        <p>Focus on balancing protecting consumer's interests with commercialism in difficult trading conditions.</p>
+
+        <p>To include real life examples such as:disputed claim payments, managing customer value for money,product design for changing policyholder circumstances, FCA's vulnerable customer guidance, Terminal Illness problems, ex-gratia claims,underwriting design with irrationality in mind,etc.</p>
+</abstract>
+<speaker><name>Donna Cowell</name><affiliation><corporation>Swiss Re</corporation></affiliation></speaker>
+<speaker><name>Malcolm Slee</name><affiliation><corporation>Aviva</corporation></affiliation></speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>5</placecode>
+<title>A New Dawn for Variable Annuities</title>
+<abstract><p>The pension reform act in 2014 has opened the UK retirement market for new forms of savings vehicles, while uncertainty in equity and bond returns compel pensioners to seek investments with downside protection. The Variable Annuity product has filled this retirement provision gap in the US for the last 15 years and could play a similar role in the UK. The presenters, both with directly relevant US experience, will outline the following:
+
+<ul>
+<li>       the product features that have been adopted in the US retirement market;</li>
+<li>       historical barriers to UK Variable Annuity sales;</li>
+<li>        the key features of a successful product for the UK market;</li>
+<li>        evaluation of how product features can impact on policyholder behaviour;</li>
+<li>        impact of policyholder behaviour on pricing and capital.</li>
+</ul>
+</p>
+</abstract>
+<speaker><name>Gus Williams</name><affiliation><corporation>PwC UK</corporation></affiliation></speaker>
+<speaker><name>James Isherwood</name><affiliation><corporation>PwC UK</corporation></affiliation></speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>6</placecode>
+<title>The UK Life Market in 2015 and Beyond – A Rating Agency Perspective</title>
+<abstract>    How UK life insurers have fared during 2015:
+
+<ul><li>        a whistle-stop tour of capital, earnings, sales and margins</li>
+<li>        A look behind the headlines – what insurers don’t want you to know.</li>
+<li>        Who will be the winners and losers from market and regulatory reforms?</li>
+<li>        Some predictions for 2016</li>
+</ul>
+And what does it all mean for credit ratings?
+</abstract>
+<speaker><name>David Prowse</name><affiliation><corporation>Fitch Ratings</corporation></affiliation></speaker>
+<speaker><name>Harish Gohild</name><affiliation><corporation>Fitch Ratings</corporation></affiliation></speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>7</placecode>
+<title>Solvency II - Is it Really "Maximum Harmonisation"?</title>
+<abstract>    Are divergences in the application of Solvency II leading to an un-even playing field across Europe and what implications does this have for cross-border groups? This session examines the differences in application arising from both the discretion allowed within the Directive itself and also from supervisors implementing additional requirements over and above the Solvency II rules.
+</abstract>
+<speaker><name>Ramona Dolan</name><affiliation><corporation>Milliman</corporation></affiliation></speaker>
+<speaker><name>Sarah Byrne</name><affiliation><corporation>AXA MPS</corporation></affiliation></speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>8</placecode>
+<title>£1Trn and Counting – the Rise and Rise of Unit-Linked Funds</title>
+<abstract>The ‘simple’ world of unit-linked has experienced significant changes recently with more changes coming under Solvency 2. The scale of assets in unit-linked structures and increasing complexity of how this business operates brings both opportunities and challenges for actuaries. This talk will cover considerations of the IFoA unit-linked fund structures working party including the current state, key risks and the changes coming. Those close to UL, know it is anything but simple!
+</abstract>
+<speaker><name>Craig Smith</name><affiliation><corporation>Unit-Linked Fund Structures Working Party</corporation></affiliation></speaker>
+<speaker><name>Robert Whitehouse</name><affiliation><corporation>Unit-Linked Fund Structures Working Party</corporation></affiliation></speaker>
+</event>
+
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>9</placecode>
+<title>Tax in Solvency II – The Final Lap</title>
+<abstract>    The Taxation Working Party will present the latest thinking informed by experience on:
+
+<ul><li>        PRA approach to deferred tax in Solvency II</li>
+<li>        Standard formula versus internal model</li>
+<li>        Modelling challenges</li>
+<li>        Interaction with expected impact of IFRS Phase 2.</li>
+</ul></abstract>
+<speaker><name>Matthew Little</name><affiliation><corporation>Life Taxation Working Party</corporation></affiliation></speaker>
+<speaker><name>Paul Turnbull</name><affiliation><corporation>Life Taxation Working Party</corporation></affiliation></speaker>
+</event>
+
+<event>
+<category>Workshop</category>
+<session>G</session>
+<placecode>10</placecode>
+<title>Be Concise and Precise with Impact</title>
+<abstract>    Many professionals find it hard to communicate in a concise and precise manner. Whether it’s delivering a presentation, contributing to a meeting or briefing one-on-one, they feel compelled to explain things at length. As a result they often don’t get their message across effectively because their audience stops listening as their eyes glaze over. This insightful and practical session will enable participants to ‘get out of the weeds’ and deliver their key messages concisely and precisely – maximising the impact they have and their ability to gain buy-in from stakeholders of all kinds.
+</abstract>
+<speaker><name>Steve Bavister</name><affiliation><corporation>Speak First</corporation></affiliation></speaker>
+</event>
+
+
+</events>
+</schedule>
