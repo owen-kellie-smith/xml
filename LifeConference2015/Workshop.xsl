@@ -33,6 +33,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <tr>
       <th>Session</th>
       <th>Title</th>
+      <th>Start</th>
     </tr>
    </thead>
    <tbody>
@@ -89,6 +90,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
           </td>
       </xsl:otherwise>
 		</xsl:choose>
+    <td ><xsl:apply-templates select="//schedule/times/timeslot[session = current()/session]/start"/></td>
     </tr>
 </xsl:template>
 
@@ -110,6 +112,14 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="timeslot"   >
   from <xsl:value-of select="start"/> to <xsl:value-of select="finish"/>
+</xsl:template>
+
+<xsl:template match="start"  >
+<xsl:variable name="time" select="translate(string(.),' ','T')"/>
+<xsl:variable name="jour" select="substring-before($time,'/')" />
+<xsl:variable name="heure" select="substring-after($time,'T')" />
+<xsl:value-of select="$jour"/>th 
+<xsl:value-of select="$heure"/>
 </xsl:template>
 
 <xsl:template match="title"  >
