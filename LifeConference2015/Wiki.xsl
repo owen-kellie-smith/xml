@@ -2,7 +2,9 @@
 <xsl:stylesheet version="1.0"
 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output omit-xml-declaration="yes" indent="yes"/>
-<xsl:strip-space elements="*"/>
+
+<xsl:preserve-space elements="li"/>
+<xsl:strip-space elements="abstract"/>
 
 <xsl:template match="/">
 <mediawiki>
@@ -96,7 +98,13 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="li"  >
-* <xsl:apply-templates/>
+<xsl:choose>
+      <xsl:when test="parent::ol">#</xsl:when>
+      <xsl:when test="ancestor::ol">#*</xsl:when>
+      <xsl:otherwise>*</xsl:otherwise>
+</xsl:choose>
+<xsl:apply-templates/>
+
 </xsl:template>
 
 <xsl:template match="speaker"  >
