@@ -27,37 +27,24 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text>
-		<xsl:choose>
-      <xsl:when test="category = 'Plenary'">
-				<xsl:apply-templates select="session" mode="Plenary"/>
-      </xsl:when>
-      <xsl:otherwise>
-				<xsl:apply-templates select="session"/>
-      </xsl:otherwise>
-		</xsl:choose>
- 
-			<xsl:apply-templates select="speaker"/>
-		<xsl:apply-templates select="abstract"/>
+{{event
+|category=<xsl:value-of select="category"/>
+|session=<xsl:apply-templates select="session"/>
+|speakers=<xsl:apply-templates select="speaker"/>
+|abstract=<xsl:apply-templates select="abstract"/>
+}}
 	</text>
     </revision>
   </page>
 </xsl:template>
 
 
-<xsl:template match="session"  mode="Plenary">
-  Plenary session: 
-  <xsl:value-of select="."/><xsl:value-of select="../placecode"/>
-	<xsl:variable name="sess" select="." />
-  <xsl:apply-templates select="//schedule//times//timeslot[session = $sess]" />
-
-</xsl:template>
-
 <xsl:template match="session" >
-  Workshop: 
-  <xsl:value-of select="."/><xsl:value-of select="../placecode"/>
-	<xsl:variable name="sess" select="." />
-  <xsl:apply-templates select="//schedule//times//timeslot[session = $sess]" />
-
+{{session
+|place=<xsl:value-of select="."/><xsl:value-of select="../placecode"/>
+|start=<xsl:variable name="sess" select="." /><xsl:apply-templates select="//schedule//times//timeslot[session = $sess]/start" />
+|finish=<xsl:apply-templates select="//schedule//times//timeslot[session = $sess]/finish" />
+}}
 </xsl:template>
 
 <xsl:template match="timeslot"   >
@@ -65,11 +52,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="start"  >
-<xsl:variable name="time" select="translate(string(.),' ','T')"/>
-<xsl:variable name="jour" select="substring-before($time,'/')" />
-<xsl:variable name="heure" select="substring-after($time,'T')" />
-<xsl:value-of select="$jour"/>th 
-<xsl:value-of select="$heure"/>
+<xsl:value-of select="."/> 
+</xsl:template>
+
+<xsl:template match="finish"  >
+<xsl:value-of select="."/> 
 </xsl:template>
 
 <xsl:template match="title" >
@@ -78,14 +65,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="abstract"  >
 <xsl:apply-templates/>
-
-
-
 </xsl:template>
 
 <xsl:template match="p"  >
-
-
 <xsl:apply-templates/>
 </xsl:template>
 
@@ -108,14 +90,21 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 </xsl:template>
 
 <xsl:template match="speaker"  >
-* <xsl:value-of select="name"/><xsl:apply-templates select="affiliation"/>
-</xsl:template>
+{{speaker
+|name=<xsl:value-of select="name"/>
+|affiliation=<xsl:apply-templates select="affiliation"/>
+|bio=<xsl:apply-templates select="bio"/>
+}}</xsl:template>
 
 
-<xsl:template match="affiliation"  ><xsl:apply-templates select="role"/><xsl:apply-templates select="corporation"/></xsl:template>
+<xsl:template match="affiliation"  >{{affiliation
+|role=<xsl:apply-templates select="role"/>
+|corporation=<xsl:apply-templates select="corporation"/>
+}}</xsl:template>
 
-<xsl:template match="role"  >, <xsl:value-of select="."/></xsl:template>
+<xsl:template match="role"  ><xsl:value-of select="."/></xsl:template>
 
-<xsl:template match="corporation"  >, <xsl:value-of select="."/></xsl:template>
+<xsl:template match="corporation"  ><xsl:value-of select="."/></xsl:template>
+<xsl:template match="bio"  ><xsl:value-of select="."/></xsl:template>
 
 </xsl:stylesheet> 
